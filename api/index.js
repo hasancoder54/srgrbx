@@ -15,7 +15,7 @@ module.exports = async (req, res) => {
       res.status(200).json({
         message: "RBX HSnap API",
         usage: "/api?username=RobloxKullaniciAdi",
-        example: "https://abc-one-mocha.vercel.app/api?username=builderman"
+        example: "https://rbxhsrg.vercel.app/api?username=builderman"
       });
       return;
     }
